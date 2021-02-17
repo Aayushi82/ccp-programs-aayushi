@@ -12,7 +12,6 @@ void main()
 }
 void printEven(int m,int n)
 {
-    int r,s=0;
     for(int i=m;i<=n;i++)
     {
         if (i%2==0)
